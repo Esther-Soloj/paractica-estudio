@@ -404,3 +404,12 @@ rbTree.searchByPromedio(90);
 
 // Buscar estudiantes con promedios dentro de un rango
 rbTree.searchByRange(80, 90);
+
+
+// clase rbt se importa: import { Estudent } from "./estudent";
+// import { NodeRBT } from "./node_rbt";
+
+// clase nodoRBT se importa:  import { Estudent } from "./estudent";
+
+// index.ts se importa : import { Estudent } from "./estudent";
+// import { RBTree } from "./rbt";
